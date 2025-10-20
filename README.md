@@ -310,6 +310,6 @@ taskkill /PID <PID> /F
 
 ## 👨‍💻 Auteur
 
-**Salah-Eddine JAOUAD**
-**Cours** : Systèmes Distribués & Parallèles et Sécurité  
-**Établissement** : ENSET
+- **Salah-Eddine JAOUAD**
+- **Cours** : Systèmes Distribués & Parallèles et Sécurité  
+- **Établissement** : ENSET
