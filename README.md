@@ -1,4 +1,8 @@
 # Architecture Microservices - Gestion de Factures
+ 
+---
+## **Salah-Eddine JAOUAD**
+---
 
 ## 📋 Description du Projet
 
@@ -306,10 +310,6 @@ taskkill /PID <PID> /F
 
 ## 👨‍💻 Auteur
 
-**Jaouad** - Activité Pratique N°3 - Architecture Microservices
-
----
-
-**Date** : Octobre 2025  
+**Salah-Eddine JAOUAD**
 **Cours** : Systèmes Distribués & Parallèles et Sécurité  
 **Établissement** : ENSET
