@@ -16,6 +16,10 @@ spring:
           uri: lb://inventory-service
           predicates:
             - Path=/products/**
+        - id: billing-service
+          uri: lb://billing-service
+          predicates:
+            - Path=/bills/**
 
 server:
   port: 8888
